@@ -67,5 +67,8 @@ The analysis addresses 7 core commercial questions using dynamic Pivot Tables, g
   * Preprocessing missing values in reviews per month and standardizing categorical naming across 48,000+ records.
 
 ---
-
+---
+### 🔗 Live Discussion & Showcase
+* View the original analytical walkthrough and community discussion on [LinkedIn](PASTE_YOUR_LINKEDIN_POST_URL_HERE).
+---
 ## 📁 Repository Structure
